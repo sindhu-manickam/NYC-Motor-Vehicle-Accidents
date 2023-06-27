@@ -1,4 +1,4 @@
-Hello! Please visit https://sindhu-manickam.github.io/NYC-Motor-Vehicle-Accidents/ to see the full site. 
+Hello! Please visit https://sindhu-manickam.github.io/NYC-Motor-Vehicle-Accidents/ to see the full site. You can view the code [here](https://github.com/sindhu-manickam/NYC-Motor-Vehicle-Accidents).
 
 Now, let me tell you a little more about this project! I aimed to practice the skills learned from my data mine classes, and I wanted to expand upon these skills as well. I created a couple of visualizations using JupyterLab, pandas, matplotlib, ipywidgets, and folium. I used a dataset from Kaggle to create these visualizations. I would love to have a live web page up and running on Git Hub, but since this file exceeds 25MB, I have included screenshots of the visualizations instead. 
 
